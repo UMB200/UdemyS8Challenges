@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf8939e6-cdda-4e2c-b490-6bd57eaf29f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UjCR6nsqh3YNWJsFo8qXT9uZb1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Autoboxing-&amp;-Unboxing-(Challenge-Exercise)-Part-3-Source-code/src/com/timbuchalka" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.UmidJavaUdemy.Main" />
+      <module name="UdemyS8Challenges" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8939e6-cdda-4e2c-b490-6bd57eaf29f9" name="Default Changelist" comment="" />
+      <created>1575860605137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575860605137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1576270141839">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="636" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576270141839" />
+    <state x="413" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576212970725">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="177" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1576212970725" />
+    <state x="479" y="253" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576212972735">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="253" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1576212972735" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1576465810475">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576465810475" />
+    <state width="437" height="587" key="GridCell.Tab.0.bottom" timestamp="1576209250582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="437" height="587" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576209250582" />
+    <state width="437" height="587" key="GridCell.Tab.0.center" timestamp="1576209250582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="437" height="587" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576209250582" />
+    <state width="437" height="587" key="GridCell.Tab.0.left" timestamp="1576209250582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="437" height="587" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576209250582" />
+    <state width="437" height="587" key="GridCell.Tab.0.right" timestamp="1576209250582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="437" height="587" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576209250582" />
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576125117659">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576125117659" />
+    <state x="65" y="0" key="new project wizard" timestamp="1576292700662">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1576292700662" />
+  </component>
+</project>
